@@ -1,0 +1,13 @@
+numpy
+scipy
+torch
+matplotlib
+scikit-learn
+sentence-transformers
+datasets
+rouge-score
+bert-score
+nltk
+pandas
+reedsolo
+pyldpc
