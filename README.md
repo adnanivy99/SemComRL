@@ -66,8 +66,8 @@ The main script is:
 
 ```bash
 semantic_comm_rl_full_ablation_metrics.py
-
+```
 ## Installation
-
 ```bash
 pip install -r requirements.txt
+```
